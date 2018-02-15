@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //margins
+    <dimen name="USER_IMG_WH">120dp</dimen>
+    <dimen name="MEDIUM_MARGIN">10dp</dimen>
+    <dimen name="MEDIUM_MARGIN_XX">20dp</dimen>
+    <dimen name="BIG_MARGIN">40dp</dimen>
+    <dimen name="BIG_MARGINXX">60dp</dimen>
+    <dimen name="SMALL_MARGIN">5dp</dimen>
+    <dimen name="LARGE_MARGIN">100dp</dimen>
+
+    //textsize
+    <dimen name="TITLE_SIZE">16sp</dimen>
+    <dimen name="DESCRIPTION_SIZE">14sp</dimen>
+    <dimen name="LARGE_TITLE">18sp</dimen>
+
+</resources>

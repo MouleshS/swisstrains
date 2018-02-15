@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Swiss Trains</string>
+    <string name="fb_login">login with facebook</string>
+    <string name="facebook_app_id">345601529256321</string>
+    <string name="fb_login_protocol_scheme">fb345601529256321</string>
+    <string name="search_con">Search Connections</string>
+    <string name="fav_con">Favourite Connections</string>
+    <string name="login_description_title">find and favourite your trains</string>
+    <string name="login_success">Successfully logged in</string>
+    <string name="login_cancel">login cancelled</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="error_symbol">invalid</string>
+    <string name="no_con_found">No connections found</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="search">Search</string>
+    <string name="save">save</string>
+    <string name="con_saved">Connection Saved</string>
+    <string name="con_exists">Connection Already Exists</string>
+    <string name="no_saved_data">you got no saved connections</string>
+</resources>

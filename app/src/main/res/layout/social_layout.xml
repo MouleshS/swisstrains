@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/col_white">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/app_name"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/LARGE_TITLE" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_centerInParent="true"
+        android:text="@string/login_description_title"
+        android:textColor="@color/colorPrimary"
+        android:textSize="@dimen/DESCRIPTION_SIZE" />
+
+    <TextView
+        android:id="@+id/fb_login_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/MEDIUM_MARGIN"
+        android:layout_marginLeft="@dimen/MEDIUM_MARGIN"
+        android:layout_marginRight="@dimen/MEDIUM_MARGIN"
+        android:layout_marginTop="@dimen/MEDIUM_MARGIN"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:padding="@dimen/MEDIUM_MARGIN"
+        android:text="@string/fb_login"
+        android:textColor="@color/col_white" />
+
+</RelativeLayout>
